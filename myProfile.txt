@@ -1,3 +1,4 @@
 Nama: Abdul Rohman maulidhi
 Umur: 18 tahun
-Pekerrjaan: mahasiswa
+Pekerjaan: mahasiswa
+status: single
